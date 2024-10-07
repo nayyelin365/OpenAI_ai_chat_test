@@ -1,0 +1,10 @@
+{
+  "appTitle": "Ai Chat",
+  "@appTitle": {
+    "description": "The title to be shown in the menu bar"
+  },
+  "message_chat_gpt" : "Message ChatGPT",
+  "flutterSeniorDeveloper": "Flutter Senior Developer",
+  "byDialogplus": "By Nay Ye Lin"
+  
+}
